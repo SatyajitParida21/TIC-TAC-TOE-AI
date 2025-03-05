@@ -9,11 +9,11 @@ Excited to share my AI-powered Tic-Tac-Toe game, developed as part of my CodSoft
 
 This project implements an unbeatable AI opponent using the Minimax algorithm with Alpha-Beta Pruning, ensuring optimal decision-making in every move. The AI is designed to never lose, making it a great challenge for human players!
 
-🔹 Features:
-✅ Minimax Algorithm for strategic gameplay
-✅ Alpha-Beta Pruning for optimization
-✅ Interactive CLI-based interface
-✅ Unbeatable AI opponent
+ Features:
+     Minimax Algorithm for strategic gameplay
+     Alpha-Beta Pruning for optimization
+     Interactive CLI-based interface
+     Unbeatable AI opponent
 
 A huge thanks to CodSoft for this amazing internship opportunity, which helped me enhance my AI, problem-solving, and game theory skills! 🙌
 
