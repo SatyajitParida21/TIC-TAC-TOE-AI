@@ -17,4 +17,6 @@ This project implements an unbeatable AI opponent using the Minimax algorithm wi
 
 A huge thanks to CodSoft for this amazing internship opportunity, which helped me enhance my AI, problem-solving, and game theory skills! 🙌
 
+![Image](https://github.com/user-attachments/assets/35022b13-0779-4d7b-8e89-50c0a70f9de1)
+
 
